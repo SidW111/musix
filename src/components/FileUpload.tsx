@@ -20,7 +20,7 @@ type fileUploadProps = {
   <input
     id="audio-upload"
     type="file"
-    accept="audio/*"
+    accept="audio/*,.mp3,.wav"
     onChange={handleChange}
     className="absolute left-0 top-0 w-full h-full opacity-0 cursor-pointer"
   />
