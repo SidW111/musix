@@ -26,4 +26,4 @@ type fileUploadProps = {
 };
 
 
-export default FileUpload
+export default FileUpload;
