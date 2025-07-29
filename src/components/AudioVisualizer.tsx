@@ -75,8 +75,7 @@ const AudioVisualizer: React.FC<AudioVisualizerProps> = ({
     <canvas
       ref={canvasRef}
   className="w-full h-64 bg-black rounded-lg shadow-[0_0_30px_rgba(99,102,241,0.6)] "
-      // width={800}
-      // height={256}
+      
     />
   );
 };
