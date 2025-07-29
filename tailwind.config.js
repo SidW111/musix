@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       boxShadow: {
-      'neon-purple': '0 0 25px #a855f7',
+      'neon-purple': '0 0 12px #a855f7',
     },
     },
   },
