@@ -30,7 +30,8 @@ const App = ({}) => {
   border border-white/10"
       >
         {" "}
-        <h1 className="text-3xl font-bold">🎵 Musix</h1>
+        <p>powered by sid</p>
+        <h1 className="text-3xl font-bold">🎵 Musix 🎵</h1>
         <FileUpload onFileSelect={setAudioFile} />
         {audioFile && (
           <>
